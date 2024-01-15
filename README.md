@@ -17,3 +17,4 @@ A 2D platformer where the player has to switch the gravity direction to collect 
 - Camera follows player without Cinemachine.
 - Legacy input system.
 - Physics Material to reduce bounce and friction.
+- TextMeshPro for UI
